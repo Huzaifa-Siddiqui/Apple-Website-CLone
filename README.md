@@ -28,6 +28,8 @@ This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS.
 
 ## Links
 
-- [LinkedIn](https://www.linkedin.com/in/your-username)
-- [Instagram](https://www.instagram.com/your-username)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](www.linkedin.com/in/huzaifa-siddiqui-6370051b5)
+- [Instagram](https://www.instagram.com/_huzaifa__siddiqui/)
+- [Email](mailto:huzaifasid1868@gmail.com)
+  
+  
