@@ -1,8 +1,7 @@
-
 ## 📋 Table of Contents
 
 1. [Introduction](#introduction)
-2. [Tech Stack](#tech-stack)
+2. [Technologies](#technologies)
 3. [Features](#features)
 4. [Links](#links)
 
@@ -27,7 +26,8 @@ This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS.
 - **Custom Video Carousel (made with GSAP)**: Engage users with a unique and interactive video carousel developed using GSAP for a personalized browsing experience.
 - **Completely Responsive**: Consistent access and optimal viewing on any device with a fully responsive design that adapts to different screen sizes.
 
-## Links 
+## Links
 
-
-
+- [LinkedIn](https://www.linkedin.com/in/your-username)
+- [Instagram](https://www.instagram.com/your-username)
+- [Email](mailto:your-email@example.com)
